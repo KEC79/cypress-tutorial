@@ -16,7 +16,7 @@ describe("Feedback Test", () => {
     })
 
     it("should submit feedback form", function() {
-        feedbackPage.fillFeedbackForm("kim", "test@test.com", "this is a subject", "this is a comment")
+        feedbackPage.fillFeedbackForm("kim", "test@test.com", "This is a subject", "This is a comment")
         feedbackPage.submitFeedbackForm()
     })
 
