@@ -1,5 +1,4 @@
 import HomePage from "../../page-objects/HomePage"
-import Feedback from "../../page-objects/FeedbackPage"
 import FeedbackPage from "../../page-objects/FeedbackPage"
 
 describe("Feedback Test", () => {
